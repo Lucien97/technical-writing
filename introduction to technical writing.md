@@ -1,21 +1,21 @@
 ### Reading patterns
 
-F-shape pattern
-Layer cake pattern
-Spotted pattern
-Committed pattern
+F-shape pattern<br>
+Layer cake pattern<br>
+Spotted pattern<br>
+Committed pattern<br>
 
 ### Categories of writing
 
-creative writing
-commercial copy writing
-business writing
-scientific writing
-technical writing
+creative writing<br>
+commercial copy writing<br>
+business writing<br>
+scientific writing<br>
+technical writing<br>
 
 #### Why technical writing?
 
-Cognitive distance: 越懂一件事越难跟别人解释清楚
+Cognitive distance: 越懂一件事越难跟别人解释清楚<br>
 Textual affinity: 站在用户的角度考虑用户需要什么样的信息
 
 #### Information product development
@@ -49,17 +49,17 @@ Easy to find
 
 #### Trivial stuff
 
-Human factors: min-max effect (minimum effort for maximum input)
+Human factors: min-max effect (minimum effort for maximum input)<br>
+UX and technical writing are both user-oriented.<br>
+Style guide and controlled languages:
+- Microsoft Style Guide
+- IBM DQTI
+- ASD-STE
 
-UX and technical writing are both user-oriented.
+Things to check:
+- Terminology check<br>
+- Grammar check<br>
+- Style check<br>
 
-Microsoft Style Guide
-IBM DQTI
-ASD-STE
-
-Terminology check
-Grammar check
-Style check
-
-Always put users at the center
+Please remember: Always put users at the center
 
