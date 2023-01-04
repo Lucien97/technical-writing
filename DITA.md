@@ -80,3 +80,4 @@ Summarize and categorize.
 
 ### Oxygen XML Author Introduction
 
+Recommended book: DITA best practices
